@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/25 12:02:09.000.259,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 12:09:19.000.283,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\UMain.dfm</Transaction>
+    <Transaction>2022/02/25 12:09:19.000.283,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\UMain.pas</Transaction>
+    <Transaction>2022/02/25 12:09:37.000.610,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\Estoque.dproj</Transaction>
+    <Transaction>2022/02/25 14:53:25.180,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 14:57:16.496,C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\UAbout.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 14:57:16.496,C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\UAbout.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Estoque\Fonte\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
